@@ -1,4 +1,3 @@
-node_modules
 test
 src/**.js
 .idea/*
@@ -7,7 +6,6 @@ coverage
 .nyc_output
 *.log
 
-build/
 .env
 build/main/lib/auth/index.spec.js
 src/test.ts
