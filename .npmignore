@@ -1,4 +1,3 @@
-src
 test
 tsconfig.json
 tsconfig.module.json
@@ -7,12 +6,10 @@ tslint.json
 .github
 .prettierignore
 .vscode
-build/docs
 **/*.spec.*
 coverage
 .nyc_output
 *.log
 .env
-docs
 package-lock.json
 scripts
